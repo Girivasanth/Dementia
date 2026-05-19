@@ -75,10 +75,8 @@ All subsequent risk assessments are measured **against this personal baseline**,
 
 ## System Architecture
 
-```
+---
 <img width="1405" height="1600" alt="image" src="https://github.com/user-attachments/assets/49d1d981-0294-4c6f-b90f-dc7e29cb513b" />
-
-```
 
 ---
 
