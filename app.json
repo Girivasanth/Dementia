@@ -1,29 +1,43 @@
 {
   "expo": {
-    "name": "patient-expo-app",
-    "slug": "patient-expo-app",
+    "name": "CogniSense",
+    "slug": "cognisense-patient",
     "version": "1.0.0",
+    "sdkVersion": "53.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#16694D"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cognisense.patient"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#16694D"
       },
-      "edgeToEdgeEnabled": true
+      "package": "com.cognisense.patient"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7839d095-fc55-4cb3-b0be-8aa4d5969623"
+      }
+    },
+    "owner": "girivasanth_v",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7839d095-fc55-4cb3-b0be-8aa4d5969623"
     }
   }
 }
