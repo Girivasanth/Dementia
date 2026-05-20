@@ -157,21 +157,9 @@ This project follows the **Stanford Design Thinking** five-stage process:
 
 ---
 
-## Author
-
-**Girivasanth V**  
-Artificial Intelligence & Machine Learning Student  
-Chennai, India  
-GitHub: [github.com/Girivasanth](https://github.com/Girivasanth)
-
----
-
 ## Disclaimer
 
 CogniSense is a **research and screening support tool**. It does not provide medical diagnoses. All risk assessments are intended to assist — not replace — qualified neurologists. Clinical decisions remain entirely with licensed medical professionals.
 
 ---
 
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
